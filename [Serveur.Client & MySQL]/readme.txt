@@ -1,0 +1,2 @@
+Ici nous avons l'enregistrement et le login d'un utilisateur avec une bdd, à travers l'interface graphique nous pouvons nous deplacer à la page liste d'amis qui n'est pas du tout complete.
+Nous avons plutot opté pour le developement du chat, sous MySQL et sous Protocol UDP (voir dossier precedent).
